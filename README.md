@@ -1,4 +1,4 @@
-# Jiya1573_IA
+# Jiya374_IA
 Jiya Patel-21BCP374-Docker three-tier application
 Docker 3 tier application
 
