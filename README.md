@@ -12,7 +12,7 @@ Here is the github link we have taken for this tutorial.
 We wil use docker compose to create a multi-container setup.
 
 ##### Step 3:Add the below code in Dockerfile  
-![Docker hub repository](./images/dockerfile.png)   
+![Docker hub repository](images\dockerfile.png)   
 
 ##### Step 4: Create a new repository in the docker hub  
 ![Docker hub repository](./images/repo1.png)  
